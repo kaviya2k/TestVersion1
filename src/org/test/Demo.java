@@ -26,6 +26,8 @@ public class Demo {
 
 	    public static void main(String[] args) {
 	    	Demo calculator = new Demo();
+	    	
+	    	
 
 	        int sum1 = calculator.add(5, 10);
 	        System.out.println("Sum of two integers: " + sum1);
