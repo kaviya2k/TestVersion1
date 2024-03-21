@@ -29,9 +29,7 @@ public class Demo {
 	    	
 	    	
 	    	
-	    	
-
-	    	
+	    		    	
 	    	
 	        int sum1 = calculator.add(5, 10);
 	        System.out.println("Sum of two integers: " + sum1);
